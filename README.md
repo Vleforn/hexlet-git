@@ -1,3 +1,1 @@
-new line in readme
-
-another line
+Hello, Hexlet! How are you?
